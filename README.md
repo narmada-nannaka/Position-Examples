@@ -1,2 +1,2 @@
 # Position-Examples
-Exploring Position CSS options
+Position property assists in placing an element at a specific spot on the web page. By default, position takes a static value. What this means is, the element will appear as per the natural flow of the web page. If you intend to move it around from its natural flow, then static value must be replaced with either absolute or relative. To read more, check out [my blog](https://bit.ly/3guUzW9)
